@@ -1,0 +1,22 @@
+.head-banner{
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+.img-profilo{
+
+}
+.header-pad{}
+.header-pad-2{}
+
+@media screen and (max-width: 576px) {
+  .head-banner{
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+  }
+  .header-pad{
+    padding-bottom: 2rem;
+  }
+  .header-pad-2{
+    padding-top: 2rem;
+  }
+}
